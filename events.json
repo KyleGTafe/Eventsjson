@@ -9,6 +9,7 @@
     "category": "Fitness",
     "description": "Beginner-friendly yoga session.",
     "capacity": 20,
+    "cost": 20,
     "spotsRemaining": 8,
     "isCancelled": false
   },
@@ -22,6 +23,7 @@
     "category": "Social",
     "description": "Teams of 4–6 welcome.",
     "capacity": 40,
+    "cost": 20,
     "spotsRemaining": 22,
     "isCancelled": false
   },
@@ -35,6 +37,7 @@
     "category": "Community",
     "description": "PG-rated outdoor screening.",
     "capacity": 120,
+    "cost": 10,
     "spotsRemaining": 95,
     "isCancelled": false
   },
@@ -48,6 +51,7 @@
     "category": "Music",
     "description": "Bring an instrument or just listen.",
     "capacity": 30,
+    "cost": 10,
     "spotsRemaining": 12,
     "isCancelled": false
   },
@@ -61,6 +65,7 @@
     "category": "Fitness",
     "description": "Core-focused pilates for all levels.",
     "capacity": 18,
+    "cost": 20,
     "spotsRemaining": 5,
     "isCancelled": false
   },
@@ -74,6 +79,7 @@
     "category": "Arts & Crafts",
     "description": "Learn blending and layering techniques. Materials provided.",
     "capacity": 16,
+    "cost": 20,
     "spotsRemaining": 9,
     "isCancelled": false
   },
@@ -87,6 +93,7 @@
     "category": "Social",
     "description": "Open to all skill levels. Boards provided.",
     "capacity": 24,
+    "cost": 0,
     "spotsRemaining": 14,
     "isCancelled": false
   },
@@ -100,12 +107,13 @@
     "category": "Community",
     "description": "Ages 6–12. Make simple healthy snacks.",
     "capacity": 12,
+    "cost": 25,
     "spotsRemaining": 3,
     "isCancelled": false
   },
   {
     "id": 109,
-    "title": "Sunset Run Club REMOTE",
+    "title": "Sunset Run Club",
     "date": "2026-11-21",
     "startTime": "17:00",
     "endTime": "18:30",
@@ -113,6 +121,7 @@
     "category": "Fitness",
     "description": "5km social run. All paces welcome.",
     "capacity": 50,
+    "cost": 0,
     "spotsRemaining": 31,
     "isCancelled": false
   },
@@ -126,6 +135,7 @@
     "category": "Music",
     "description": "Live jazz quartet with optional wine tasting.",
     "capacity": 60,
+    "cost": 40,
     "spotsRemaining": 18,
     "isCancelled": false
   },
@@ -139,6 +149,7 @@
     "category": "Community",
     "description": "Social catch-up for over 60s. Light refreshments included.",
     "capacity": 35,
+    "cost": 0,
     "spotsRemaining": 20,
     "isCancelled": false
   },
@@ -152,6 +163,7 @@
     "category": "Arts & Crafts",
     "description": "Guided walk focusing on nature photography tips.",
     "capacity": 20,
+    "cost": 0,
     "spotsRemaining": 7,
     "isCancelled": false
   },
@@ -165,6 +177,7 @@
     "category": "Education",
     "description": "Ages 13–17. Topic announced on the day.",
     "capacity": 20,
+    "cost": 0,
     "spotsRemaining": 11,
     "isCancelled": false
   },
@@ -178,6 +191,7 @@
     "category": "Fitness",
     "description": "High-energy Latin dance fitness. No experience needed.",
     "capacity": 30,
+    "cost": 15,
     "spotsRemaining": 13,
     "isCancelled": false
   },
@@ -191,6 +205,7 @@
     "category": "Social",
     "description": "Dozens of games available. Drop in anytime.",
     "capacity": 40,
+    "cost": 0,
     "spotsRemaining": 28,
     "isCancelled": false
   },
@@ -204,6 +219,7 @@
     "category": "Education",
     "description": "Covers CPR, bandaging, and emergency response.",
     "capacity": 25,
+    "cost": 0,
     "spotsRemaining": 6,
     "isCancelled": false
   },
@@ -217,6 +233,7 @@
     "category": "Community",
     "description": "Guided tour with local producer introductions.",
     "capacity": 15,
+    "cost": 0,
     "spotsRemaining": 9,
     "isCancelled": false
   },
@@ -230,6 +247,7 @@
     "category": "Music",
     "description": "Learn three chords and strum your first song.",
     "capacity": 15,
+    "cost": 20,
     "spotsRemaining": 4,
     "isCancelled": false
   },
@@ -243,6 +261,7 @@
     "category": "Community",
     "description": "Gloves and bags provided. All welcome.",
     "capacity": 60,
+    "cost": 0,
     "spotsRemaining": 42,
     "isCancelled": false
   },
@@ -256,6 +275,7 @@
     "category": "Education",
     "description": "Registered dietitian covers everyday eating habits.",
     "capacity": 30,
+    "cost": 0,
     "spotsRemaining": 17,
     "isCancelled": false
   },
@@ -269,6 +289,7 @@
     "category": "Fitness",
     "description": "Gentle morning movement suitable for all ages.",
     "capacity": 25,
+    "cost": 20,
     "spotsRemaining": 16,
     "isCancelled": false
   },
@@ -282,6 +303,7 @@
     "category": "Arts & Crafts",
     "description": "Throw your first bowl on a wheel. Aprons provided.",
     "capacity": 10,
+    "cost": 20,
     "spotsRemaining": 2,
     "isCancelled": false
   },
@@ -295,6 +317,7 @@
     "category": "Community",
     "description": "Interactive read-aloud for ages 2–6.",
     "capacity": 20,
+    "cost": 0,
     "spotsRemaining": 11,
     "isCancelled": false
   },
@@ -308,6 +331,7 @@
     "category": "Social",
     "description": "8 rounds covering sport, history, pop culture and more.",
     "capacity": 80,
+    "cost": 0,
     "spotsRemaining": 34,
     "isCancelled": false
   },
@@ -321,6 +345,7 @@
     "category": "Fitness",
     "description": "Guided session for stress reduction and focus.",
     "capacity": 20,
+    "cost": 10,
     "spotsRemaining": 10,
     "isCancelled": false
   },
@@ -334,6 +359,7 @@
     "category": "Education",
     "description": "Historian presents stories from the town's founding era.",
     "capacity": 40,
+    "cost": 0,
     "spotsRemaining": 22,
     "isCancelled": false
   },
@@ -347,6 +373,7 @@
     "category": "Social",
     "description": "Beginner lesson at 7pm followed by open social dancing.",
     "capacity": 50,
+    "cost": 10,
     "spotsRemaining": 19,
     "isCancelled": false
   },
@@ -360,6 +387,7 @@
     "category": "Community",
     "description": "Spot and identify local bird species with an expert guide.",
     "capacity": 15,
+    "cost": 0,
     "spotsRemaining": 8,
     "isCancelled": false
   },
@@ -373,6 +401,7 @@
     "category": "Education",
     "description": "Hands-on demos covering patching, tiling and basic plumbing.",
     "capacity": 20,
+    "cost": 10,
     "spotsRemaining": 13,
     "isCancelled": false
   }
